@@ -32,14 +32,15 @@ Criar links de navegação na aplicação com o componente Link;
 ## Instalando Dependências
 
 > Frontend
+
 ```bash
-cd src/
-npm install
+  cd src/
+  npm install
 ``` 
 ## Executando aplicação
 
 * Para rodar o projeto
 
-  ```
-    cd src/ && npm start
-  ```
+```
+  cd src/ && npm start
+```
